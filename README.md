@@ -40,3 +40,9 @@
 <img src="https://raw.githubusercontent.com/Omar4dell/Omar4dell/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img height="150" src="https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1739226910~exp=1739230510~hmac=ff0d06ab9045b329ead22a4333493711ee1fa49bc806b817ab3c7a7e194dd690&w=996"  />
+</div>
+
+###
